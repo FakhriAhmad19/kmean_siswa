@@ -173,9 +173,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['simpan_hasil'])) {
                                         <tr>
                                             <th width="40">No</th>
                                             <th class="text-start">Nama Siswa</th>
-                                            <th>Jarak ke C1 ($d_{C1}$)</th>
-                                            <th>Jarak ke C2 ($d_{C2}$)</th>
-                                            <th>Jarak ke C3 ($d_{C3}$)</th>
+                                            <th>Jarak ke C1 (d<sub>C1</sub>)</th>
+                                            <th>Jarak ke C2 (d<sub>C2</sub>)</th>
+                                            <th>Jarak ke C3 (d<sub>C3</sub>)</th>
                                             <th>Jarak Terkecil</th>
                                             <th>Cluster</th>
                                         </tr>

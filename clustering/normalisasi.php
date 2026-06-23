@@ -80,7 +80,7 @@ $normalizedList = $kmeans->getNormalizedData();
     <div class="row">
         <div class="col-12">
             <div class="card card-custom">
-                <div class="card-header"><i class="fas fa-table me-1"></i> Tabel Hasil Normalisasi Data ($X'$)</div>
+                <div class="card-header"><i class="fas fa-table me-1"></i> Tabel Hasil Normalisasi Data (X')</div>
                 <div class="card-body p-0">
                     <div class="table-responsive">
                         <table class="table table-custom mb-0">
